@@ -1,3 +1,3 @@
 class newFile {
-    val AAA = "AAA"
+    val AAA = "AAA s"
 }
