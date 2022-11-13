@@ -5,6 +5,14 @@ plugins {
 group = "me.jdcar"
 version = "1.0-SNAPSHOT"
 
+allprojects {
+    repositories {
+        google()
+        jcenter()
+
+    }
+}
+
 repositories {
     mavenCentral()
 }
